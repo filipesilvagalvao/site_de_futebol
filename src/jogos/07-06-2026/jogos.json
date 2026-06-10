@@ -1,0 +1,139 @@
+[
+  {
+    "id": "crb-x-sao_bernardo",
+    "campeonato": "Brasileirão Série B",
+    "hora": "16:00",
+    "time_casa": {
+      "nome": "CRB",
+      "img": "https://static.futbolenlatv.com/img/32/20130510121115_crb.webp"
+    },
+    "time_visitante": {
+      "nome": "Sao Bernardo",
+      "img": "https://static.futbolenlatv.com/img/32/20200825070729-sao-bernardo.webp"
+    },
+    "canais": [
+      "Canal GOAT",
+      "Disney+ Premium",
+      "RedeTV!"
+    ]
+  },
+  {
+    "id": "grecia-x-italia",
+    "campeonato": "Amigável",
+    "hora": "16:00",
+    "time_casa": {
+      "nome": "Grécia",
+      "img": "https://static.futbolenlatv.com/img/32/20140624094707-grecia.webp"
+    },
+    "time_visitante": {
+      "nome": "Itália",
+      "img": "https://static.futbolenlatv.com/img/32/20130111045624_italia.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "ESPN"
+    ]
+  },
+  {
+    "id": "progreso-x-albion",
+    "campeonato": "Primera Division",
+    "hora": "10:00",
+    "time_casa": {
+      "nome": "Progreso",
+      "img": "https://static.futbolenlatv.com/img/32/20200122120623-progreso.webp"
+    },
+    "time_visitante": {
+      "nome": "Albion",
+      "img": "https://static.futbolenlatv.com/img/32/20180406095333-albion.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "ca_cerro-x-penarol",
+    "campeonato": "Primera Division",
+    "hora": "15:00",
+    "time_casa": {
+      "nome": "CA Cerro",
+      "img": "https://static.futbolenlatv.com/img/32/20141108081457-ca-cerro.webp"
+    },
+    "time_visitante": {
+      "nome": "Penarol",
+      "img": "https://static.futbolenlatv.com/img/32/20130410092630_penarol.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "defensor_sp-x-boston_river",
+    "campeonato": "Primera Division",
+    "hora": "18:30",
+    "time_casa": {
+      "nome": "Defensor Sp.",
+      "img": "https://static.futbolenlatv.com/img/32/20140502100938-defensor-sporting.webp"
+    },
+    "time_visitante": {
+      "nome": "Boston River",
+      "img": "https://static.futbolenlatv.com/img/32/20200920213401-boston-river.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "cerrito-x-atenas",
+    "campeonato": "Segunda Division",
+    "hora": "13:00",
+    "time_casa": {
+      "nome": "Cerrito",
+      "img": "https://static.futbolenlatv.com/img/32/20150401080622-cerrito.webp"
+    },
+    "time_visitante": {
+      "nome": "Atenas",
+      "img": "https://static.futbolenlatv.com/img/32/20150303024404-ca-atenas.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "tacuarembo-x-uruguay_montevideo",
+    "campeonato": "Segunda Division",
+    "hora": "18:00",
+    "time_casa": {
+      "nome": "Tacuarembo",
+      "img": "https://static.futbolenlatv.com/img/32/20141203024401-tacuarembo.webp"
+    },
+    "time_visitante": {
+      "nome": "Uruguay Montevideo",
+      "img": "https://static.futbolenlatv.com/img/32/20190726061722-uruguay-montevideo.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "miramar-x-oriental",
+    "campeonato": "Segunda Division",
+    "hora": "21:00",
+    "time_casa": {
+      "nome": "Miramar",
+      "img": "https://static.futbolenlatv.com/img/32/20141112073928-miramar-misiones.webp"
+    },
+    "time_visitante": {
+      "nome": "Oriental",
+      "img": "https://static.futbolenlatv.com/img/32/20230215105339-club-oriental-football.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  }
+]
