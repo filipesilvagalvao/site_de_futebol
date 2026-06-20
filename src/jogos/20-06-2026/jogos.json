@@ -1,0 +1,203 @@
+[
+  {
+    "id": "turquia-x-paraguay",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "00:00",
+    "time_casa": {
+      "nome": "Turquia",
+      "img": "https://static.futbolenlatv.com/img/32/20130513110846_turquia.webp"
+    },
+    "time_visitante": {
+      "nome": "Paraguay",
+      "img": "https://static.futbolenlatv.com/img/32/20130319095210_paraguay.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "Globoplay",
+      "Disney+ Premium",
+      "SporTV",
+      "SporTV 2",
+      "Rede Globo"
+    ]
+  },
+  {
+    "id": "holanda-x-suecia",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "14:00",
+    "time_casa": {
+      "nome": "Holanda",
+      "img": "https://static.futbolenlatv.com/img/32/20130130075711_holanda.webp"
+    },
+    "time_visitante": {
+      "nome": "Suécia",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101348_suecia.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "Disney+ Premium",
+      "Amazon Prime Video (Ver ao vivo)"
+    ]
+  },
+  {
+    "id": "alemanha-x-costa_do_marfim",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "17:00",
+    "time_casa": {
+      "nome": "Alemanha",
+      "img": "https://static.futbolenlatv.com/img/32/20130130075653_alemania.webp"
+    },
+    "time_visitante": {
+      "nome": "Costa do Marfim",
+      "img": "https://static.futbolenlatv.com/img/32/20130103113744_cosa-de-marfil.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "SBT",
+      "Ge TV",
+      "Globoplay",
+      "NSports",
+      "Disney+ Premium",
+      "SporTV",
+      "Rede Globo"
+    ]
+  },
+  {
+    "id": "equador-x-curacao",
+    "campeonato": "FIFA Copa do Mondo 2026",
+    "hora": "21:00",
+    "time_casa": {
+      "nome": "Equador",
+      "img": "https://static.futbolenlatv.com/img/32/20130204101510_ecuador.webp"
+    },
+    "time_visitante": {
+      "nome": "Curaçao",
+      "img": "https://static.futbolenlatv.com/img/32/20150828015644-curazao.webp"
+    },
+    "canais": [
+      "CazéTV YouTube",
+      "CazeTV",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "londrina-x-athletic_club_mg",
+    "campeonato": "Brasileirão Série B",
+    "hora": "11:00",
+    "time_casa": {
+      "nome": "Londrina",
+      "img": "https://static.futbolenlatv.com/img/32/20150220125822-londrina.webp"
+    },
+    "time_visitante": {
+      "nome": "Athletic Club MG",
+      "img": "https://static.futbolenlatv.com/img/32/20210224104235-athletic-club-minas-gerais.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "ceara-x-botafogo_sp",
+    "campeonato": "Brasileirão Série B",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Ceara",
+      "img": "https://static.futbolenlatv.com/img/32/20140724053102-ceara.webp"
+    },
+    "time_visitante": {
+      "nome": "Botafogo SP",
+      "img": "https://static.futbolenlatv.com/img/32/20140129024719-botafogo.webp"
+    },
+    "canais": [
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "vila_nova_fc-x-nautico",
+    "campeonato": "Brasileirão Série B",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Vila Nova FC",
+      "img": "https://static.futbolenlatv.com/img/32/20180120103152-vila-nova.webp"
+    },
+    "time_visitante": {
+      "nome": "Nautico",
+      "img": "https://static.futbolenlatv.com/img/32/20121222104707_náutico.webp"
+    },
+    "canais": [
+      "Disney+ Premium",
+      "Canal GOAT",
+      "Xsports"
+    ]
+  },
+  {
+    "id": "colon_fc-x-river_plate",
+    "campeonato": "Segunda Division",
+    "hora": "10:00",
+    "time_casa": {
+      "nome": "Colón FC",
+      "img": "https://static.futbolenlatv.com/img/32/20220822125743-colon-fc-uruguay.webp"
+    },
+    "time_visitante": {
+      "nome": "River Plate",
+      "img": "https://static.futbolenlatv.com/img/32/20130729071310-river-plate-m.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "fenix-x-oriental",
+    "campeonato": "Segunda Division",
+    "hora": "13:00",
+    "time_casa": {
+      "nome": "Fenix",
+      "img": "https://static.futbolenlatv.com/img/32/20141120070510-centro-atletico-fenix.webp"
+    },
+    "time_visitante": {
+      "nome": "Oriental",
+      "img": "https://static.futbolenlatv.com/img/32/20230215105339-club-oriental-football.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "tacuarembo-x-paysandu_fc",
+    "campeonato": "Segunda Division",
+    "hora": "16:00",
+    "time_casa": {
+      "nome": "Tacuarembo",
+      "img": "https://static.futbolenlatv.com/img/32/20141203024401-tacuarembo.webp"
+    },
+    "time_visitante": {
+      "nome": "Paysandú FC",
+      "img": "https://static.futbolenlatv.com/img/32/20260121102255-paysandu-fc.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  },
+  {
+    "id": "plaza_colonia-x-atenas",
+    "campeonato": "Segunda Division",
+    "hora": "19:00",
+    "time_casa": {
+      "nome": "Plaza Colonia",
+      "img": "https://static.futbolenlatv.com/img/32/20150410014516-plaza-colonia.webp"
+    },
+    "time_visitante": {
+      "nome": "Atenas",
+      "img": "https://static.futbolenlatv.com/img/32/20150303024404-ca-atenas.webp"
+    },
+    "canais": [
+      "Antel TV Internacional",
+      "Disney+ Premium"
+    ]
+  }
+]
